@@ -1,5 +1,10 @@
 # SQL Project
 
+## We have used:
+
+database : PostgreSql
+code : Python to load the data(csv) into postgresql table
+
 1) Fetch all the paintings which are not displayed on any museums?
 
 2) Are there museuems without any paintings?
