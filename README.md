@@ -1,9 +1,12 @@
 # SQL Project
 
 ## We have used:
-
-### database : PostgreSql
+### dataset : Famous Paintings & Museum dataset
+### database : PostgreSQL
 ### code : Python to load the data(csv) into postgresql table
+
+
+## We have solved Below problem in this Project
 
 1) Fetch all the paintings which are not displayed on any museums?
 
