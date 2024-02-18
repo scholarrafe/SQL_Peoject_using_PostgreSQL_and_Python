@@ -1,9 +1,10 @@
 # SQL Project
 
 ## We have used:
-### dataset : Famous Paintings & Museum dataset
-### database : PostgreSQL
-### code : Python to load the data(csv) into postgresql table
+### Dataset : Famous Paintings & Museum dataset
+### data Source
+### Database : PostgreSQL
+### Code : Python to load the data(csv) into postgresql table
 
 
 ## We have solved Below problem in this Project
